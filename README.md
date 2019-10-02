@@ -1,3 +1,3 @@
-# my-fiirst-html-page
+# My-first-html-page
 the class was good
-i likle it
+i like it.
